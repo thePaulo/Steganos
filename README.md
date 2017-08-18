@@ -24,7 +24,7 @@ java grayscale
 
 ### Decripting
 
-* users shall do the same steps with compiling and executing but this time on the OpenGrayScale **requires the file extension in the text field (filename.png)
+* users shall do the same steps with compiling and executing but this time on the OpenGrayScale **requires the file extension in the text field (filename.png)**
 
 
 
