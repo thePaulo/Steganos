@@ -8,16 +8,16 @@ project that allows to hide info on .png file extensions
 ### Compiling 
 
 * users shall use 
-'''
+```
 javac grayscale.java 
-'''
+```
 
 ### Executing
 
 * users shall use
-'''
+```
 java grayscale
-'''
+```
 
 * then the program will ask you an image (.png ) **only requires the file name (filename)** 
 * then the program will give you some space to type and write what you want to put
